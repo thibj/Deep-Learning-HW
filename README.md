@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @thibj
-- 👀 I’m interested in deep learning and privacy
-- 🌱 I’m currently learning graph representation learning
-- 💞️ I’m looking to collaborate on any topic in deep learning that would allow one to explore various NN architectures.
-- 📫 Reach me by email at jesse.thibodeau1@gmail.com
+- This repository contains my homework and project code for the Machine Learning II class taught at HEC Montréal.
 
 <!---
 thibj/thibj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
